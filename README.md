@@ -1,5 +1,5 @@
 # hello_world
 This is our first github repo!
-**This bol**
+**This bold**
 
-:sad:
+:smile:
